@@ -1,4 +1,3 @@
-# Start from a Debian-based image with the Go language installed
 FROM golang:latest AS builder
 
 WORKDIR /app
